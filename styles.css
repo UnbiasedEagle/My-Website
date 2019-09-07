@@ -264,4 +264,7 @@ nav,header,footer{
     div.mobileStack{
       width:50%;
     }
+    div.mobileStack h1{
+      font-size:25px;
+    }
 }
