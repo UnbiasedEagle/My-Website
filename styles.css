@@ -232,6 +232,9 @@ nav,header,footer{
         margin: 0;
         overflow:hidden;
     }
+    header h1.section2Header {
+      font-size: 40px;
+    }
     .col-4{
       width:100%;
       margin:0;
@@ -241,7 +244,7 @@ nav,header,footer{
       display:block;
     }
     header h1{
-      font-size:30px;
+      font-size:50px;
     }
     .col-7,.col-5{
       width:100%;
