@@ -191,7 +191,10 @@ nav,header,footer{
     line-height:1.5;
   }
   /* ########  Mobile  ######### */
-  @media screen and (max-width:680px){
+  @media screen and (max-width:768px){
+    body{
+      width:200%;
+    }
     ul.topnav li:not(:nth-child(1)){
       display:none;
     }
